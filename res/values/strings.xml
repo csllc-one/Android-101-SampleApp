@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">This is some changed text</string>
+    <string name="app_name">Android 101</string>
+	
+    <string name="button_text">Click Me</string>
+    <string name="button2_text">New Activity</string>
+    
+</resources>
